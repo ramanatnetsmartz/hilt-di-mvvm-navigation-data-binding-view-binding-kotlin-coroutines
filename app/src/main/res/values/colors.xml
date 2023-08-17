@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#E60E24</color>
+    <color name="colorPrimaryDark">#AA0314</color>
+    <color name="colorAccent">#95808080</color>
+    <color name="black">#000000</color>
+    <color name="grey">#F2F2F2</color>
+    <color name="blue">#22c0f1</color>
+    <color name="dark_grey">#808080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cursor_grey">#95808080</color>
+    <color name="dialog_grey">#97868686</color>
+    <color name="shadow_color">#1022c0f0</color>
+    <color name="light_blue">#7022c0f1</color>
+    <color name="facebook_blue">#5290CF</color>
+    <color name="light_green">#6CE7AB</color>
+    <color name="green">#93b63c</color>
+    <color name="colorgrey">@android:color/darker_gray</color>
+    <color name="light_grey">#AA929395</color>
+    <color name="orange">#F7A000</color>
+    <color name="orange_dark">#E69100</color>
+    <color name="dark_green">#8DAF35</color>
+    <color name="dark_blue">#424a7c</color>
+    <array name="colors">
+        <item>@android:color/holo_blue_light</item>
+    </array>
+    <color name="dragdismiss_colorPrimary">#22c0f1</color>
+    <color name="dragdismiss_colorPrimaryDark">#22c0f1</color>
+    <color name="dragdismiss_colorAccent">#FF4081</color>
+    <color name="dragdismiss_toolbarBackground">#33000000</color>
+    <color name="dragdismiss_transparentSideBackground">#AA000000</color>
+
+    <color name="dragdismiss_windowBackground">@android:color/white</color>
+    <color name="dragdismiss_headerBackground">#E5E5E5</color>
+    <color name="dragdismiss_primaryText">#E2000000</color>
+    <color name="dragdismiss_secondaryText">#8C000000</color>
+
+    <color name="bubble_actions_light_gray">#88ffffff</color>
+    <color name="bubble_actions_background_transparent">#00000000</color>
+    <color name="bubble_actions_background_darkened">#77000000</color>
+    <color name="bubble_actions_text_background">#aa000000</color>
+    <color name="bubble_actions_text_color">#eeffffff</color>
+    <color name="dim_background">#90000000</color>
+    <color name="yellow">#FFEE75</color>
+    <color name="red">#ff0000</color>
+    <color name="thanks_image_background">#ed5f6b</color>
+
+    <color name="colorBlue">#01B5E4</color>
+    <color name="colorGrey">#4F4F4F</color>
+    <color name="colorDullWhite">#F7F7F7</color>
+    <color name="colorGreen">#424a7c</color>
+    <color name="colorDarkOrange">#AB6007</color>
+    <color name="colorGreenNew">#88C440</color>
+    <color name="colorGreenNewDark">#6FA332</color>
+    <color name="googlelogincolour">#D44638</color>
+    <color name="green_color">#80B626</color>
+    <color name="seekbar_bg">#141414</color>
+    <color name="seekbar_progress">#a53130</color>
+    <color name="seekbar_sec_progress">#875e5e</color>
+    <color name="bg_gray">#ecedef</color>
+    <color name="sign_in_text_color">#A4A3A2</color>
+</resources>
